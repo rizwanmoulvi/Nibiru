@@ -2,7 +2,7 @@
 
 **1. Install CLI**
    1. curl -s https://get.nibiru.fi/! | bash
-   2. Check installation by enetering "nibid"  
+   2. Check installation by entering "nibid"  
    
 **2. Setup Nibiru Testnet**
    1. RPC_URL="https://rpc.testnet-1.nibiru.fi:443"
