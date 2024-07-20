@@ -12,10 +12,10 @@
    5. nibid config
    
 **3. Create Account**
-   1. nibid keys add <name> #To create new wallet
-   2. nibid keys show -a <name> #To view public address
+   1. nibid keys add "name" #To create new wallet
+   2. nibid keys show -a "name" #To view public address
    
 **4. Fund wallet**
    1. Add previously created account to Leap Wallet using mnemonic or secret key
    2. Visit and connect Leap wallet to https://app.nibiru.fi/faucet to recieve test tokens
-   3. nibid query bank balances $(nibid keys show -a <name>) #To check balance
+   3. nibid query bank balances $(nibid keys show -a "name") #To check balance
